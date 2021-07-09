@@ -14,7 +14,12 @@ function solidNav() {
 /*============ TYPEWRIGHTER EFFECT ============*/
 
 const autoText = document.getElementById("text");
-const text = ["I am a Python Developer", "Liverpool Fan"];
+const text = [
+  "I am a React Developer",
+  "Love using Python",
+  "Sports enthusiast",
+  "Nomad...."
+];
 let count = 0;
 let idx = 1;
 let speed = 250;
